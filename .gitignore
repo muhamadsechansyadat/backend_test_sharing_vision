@@ -27,3 +27,4 @@ vendor/
 
 # Binary file
 bin/
+.vercel
